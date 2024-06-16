@@ -607,7 +607,7 @@
                     <key>Comment</key>
                     <string>V2.4.0</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/IntelBluetoothFirmware</string>
                     <key>MaxKernel</key>
@@ -643,7 +643,7 @@
                     <key>Comment</key>
                     <string>V2.6.8 | BlueToolFixup.kext</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/BlueToolFixup</string>
                     <key>MaxKernel</key>
@@ -661,7 +661,7 @@
                     <key>Comment</key>
                     <string>V2.6.8 | BrcmPatchRAM3.kext</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/BrcmPatchRAM3</string>
                     <key>MaxKernel</key>
@@ -679,7 +679,7 @@
                     <key>Comment</key>
                     <string>V1 | BluetoothFileExchange.kext</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/BluetoothFileExchange</string>
                     <key>MaxKernel</key>
